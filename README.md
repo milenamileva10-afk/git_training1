@@ -1,2 +1,3 @@
 # git_training1
-This repository is for practicing the GitHub Flow.
+This is my first repository
+I am looking forward to learning more
